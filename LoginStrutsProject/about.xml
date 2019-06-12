@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- 这是一个只有登录功能的网站
+ 这是一个只有登录功能的网站,所用的技术是html+jsp+jdbc+javaBean+struts2+mySQL
 不同的是集成了struts开源框架，练习如何使用struts框架
 而照书本一步一步做的一个练手小例子。
 调用了本人电脑上的一个数据库的数据,
